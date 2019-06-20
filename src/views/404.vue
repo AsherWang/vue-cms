@@ -1,11 +1,11 @@
 <template>
-  <div class="home">
-    <h1>This is an about page</h1>
+  <div class="page-404">
+    <h1>Page not found!</h1>
   </div>
 </template>
 
 <script lang="ts">
 export default {
-  name: "HomePage"
+  name: "404Page"
 };
 </script>
